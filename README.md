@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm Nikita
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm CTO in LifeStylo</h3>
 
@@ -90,6 +90,240 @@
     <img
       src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png"
       alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://mahusai.global/static/55e6b05a41df4610e0722948d9ffa3f1/h-pandas.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://freeagentcrm.com/wp-content/uploads/MongoDB.png"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.coursehunter.net/category/kubernetes.png"
+      alt="kubernetes"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img
+      src="https://bytesafe.dev/media/icons/github-actions-logo.png"
+      alt="github actions"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="gitlab.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://gomel-sat.bz/uploads/monthly_2021_09/gitlab-logo-gray-rgb.png.ca02e98f226ee7606db25c8a74746107.png"
+      alt="gitlab"
+      width="80"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png"
+      alt="tensorflow"
+      width="70"
+      height="40"
+    />
+  </a>
+  <a href="https://elastic.co/" target="_blank" rel="noreferrer">
+    <img
+      src="https://habrastorage.org/webt/eh/7s/s-/eh7ss-kgrd9kyfyw1sdqs5crr9s.png"
+      alt="elasticsearch"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://d259t2jj6zp7qm.cloudfront.net/images/20231101162934/image-2023-11-01T162926.061.png"
+      alt="langchain"
+      width="70"
+      height="40"
+    />
+  </a>
+  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://gitlab.com/uploads/-/system/project/avatar/30922508/ch-logo-white.png"
+      alt="clickhouse"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4"
+      alt="threejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img
+      src="https://logodix.com/logo/283001.png"
+      alt="java"
+      width="35"
+      height="40"
+    />
+  </a>
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png"
+      alt="cassandra.apache.org"
+      width="60"
+      height="40"
+    />
+  </a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1920px-The_C_Programming_Language_logo.svg.png"
+      alt="c language"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://boomi.com/wp-content/uploads/Kafka-logo-navy.png"
+      alt="kafka"
+      width="80"
+      height="40"
+    />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://grafana.com/media/solutions/metrisc-endpoint-monitor/Prometheus-icon.png"
+      alt="prometheus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://careers.veepee.com/wp-content/uploads/TECHNO_Grafana.png"
+      alt="grafana"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://grafana.com/products/cloud/logs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://gitlab.com/uploads/-/system/project/avatar/36179892/logo-loki.png"
+      alt="loki"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://aws.amazon.com/ru/" target="_blank" rel="noreferrer">
+    <img
+      src="https://aurumcapital.ru/wp-content/uploads/2023/08/awslogo-2048x1152.png"
+      alt="aws"
+      width="60"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://gitlab.com/uploads/-/system/project/avatar/32385868/jaeger-icon.png"
+      alt="jaeger"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://traefik.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.clipartkey.com/mpngs/m/76-768856_traefik-docker.png"
+      alt="traefik"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://storage.yandexcloud.net/pfm-prod/images/img_6345a0a3db5d7.png"
+      alt="grpc"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://min.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://stackjava.com/wp-content/uploads/2020/05/minio-logo.jpg"
+      alt="minio"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://docs.docker.com/engine/swarm/" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.pinimg.com/originals/57/73/dd/5773ddfdddd67cedf99d844d5b7b80d1.png"
+      alt="docker swarm"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.hitfuturenow.com/img/banners/neo4j_logo.png"
+      alt="neo4j"
+      width="90"
+      height="40"
+    />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+      alt="tailwindcss"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://ceph.io/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://vlasov.pro/p/ceph-upgrade/ceph_hua76b56c2cde6286348c9a3a2b8e9ff03_13394_1600x0_resize_q75_h2_box_2.webp"
+      alt="ceph"
+      width="70"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png"
+      alt="opengl"
+      width="80"
+      height="40"
+    />
+  </a>
+  <a href="https://www.khronos.org/webgl/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg"
+      alt="opengl"
       width="40"
       height="40"
     />
